@@ -17,6 +17,7 @@ gem 'bootstrap-datepicker-rails'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'font-awesome-rails'
+gem 'aws-sdk'
 
 
 # Use sqlite3 as the database for Active Record
