@@ -18,7 +18,7 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'font-awesome-rails'
 gem 'aws-sdk'
-
+gem 'stripe'
 
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
